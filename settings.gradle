@@ -1,0 +1,4 @@
+rootProject.name = 'howtosdk-root'
+
+include ':sample', ':sdkappleapi'
+include ':sdknetworking'
